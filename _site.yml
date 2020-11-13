@@ -1,0 +1,21 @@
+name: "Tyler J. Pike"
+output_dir: "."
+navbar:
+  title: "Tyler J. Pike - economist and data scientist"
+  type: inverse
+  right:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "CV"
+      icon: fa-info-circle
+      href: ./Tyler_Pike_CV.pdf
+    - text: "Code"
+      icon: fa-code
+      href: [insert code]
+left:
+  - text: "Home"
+href: index.html
+output:
+  html_document:
+    theme: darkly
