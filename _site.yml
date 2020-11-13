@@ -4,15 +4,22 @@ navbar:
   title: "Tyler J. Pike - economist and data scientist"
   type: inverse
   right:
-    - text: "Home"
-      icon: fa-home
-      href: index.html
     - text: "CV"
-      icon: fa-info-circle
       href: ./Tyler_Pike_CV.pdf
+    - text: "Research"
+      menu: 
+      - text: "Google Scholar"
+        href: https://scholar.google.com/citations?user=S21ZxVwAAAAJ&hl=en
+      - text: "SSRN"
+        href: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3097491
     - text: "Code"
-      icon: fa-code
-      href: [insert code]
+      menu: 
+      - text: "GitHub"
+        href: http://github.com/tylerJPike/
+      - text: "Kaggle"
+        href: https://www.kaggle.com/tylerpike
+    - icon: fa-envelope fa-lg
+      href: mailto:<tjpike7@gmail.com>
 left:
   - text: "Home"
 href: index.html
