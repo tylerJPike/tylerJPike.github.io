@@ -2,7 +2,7 @@
   title: "Tyler J. Pike"
 ---
   
-I am an econometrician and data scientist seeking to bridge the gap between economics and artificial intelligence. My research interest include machine learning for both forecasting and causal inference, quantitative finace (particularly asset pricing and financial conditions),  and the transmission channels between the financial sector, markets, and the real economy. I am currently serving as a research assistant at the Federal Reserve Board in the Macro-Financial Analysis section of the Division of Monetary Affairs. I additionally serve as a research assistnat for Vice Chair Clarida.
+I am an econometrician and data scientist seeking to bridge the gap between economics and artificial intelligence. My research interest include machine learning for both forecasting and causal inference, quantitative finace (particularly asset pricing and financial conditions),  and the transmission channels between the financial sector, markets, and the real economy. I am currently serving as a research assistant at the Federal Reserve Board in the Macro-Financial Analysis section of the Division of Monetary Affairs. I additionally serve as a research assistant for Vice Chair Clarida.
 
 -------
 
@@ -20,7 +20,7 @@ I am an econometrician and data scientist seeking to bridge the gap between econ
 
 2. ### Bottom-up leading macroeconomic indicators: An application to non-financial corporate defaults using machine learning
 
-   Coathored with Horacio Sapriza and Tom Zimmermann
+   Coauthored with Horacio Sapriza and Tom Zimmermann
 
    Abstract: This paper constructs a leading macroeconomic indicator from microeconomic data using recent machine learning techniques. Using tree-based methods, we estimate probabilities > of default for publicly traded non-financial firms in the United States. We then use the cross-section of out-of-sample predicted default probabilities to construct a leading indicator > of non-financial corporate health. The index predicts real economic outcomes such as GDP growth and employment up to eight quarters ahead. Impulse responses validate the interpretation > of the index as a measure of financial stress.
 
@@ -30,7 +30,7 @@ I am an econometrician and data scientist seeking to bridge the gap between econ
 
 1. ### Out-of-Sample Performance of Recession Probability Models
   
-   coauthored with Francisco Vazquez-Grande  
+   Coauthored with Francisco Vazquez-Grande  
    
    Abstract: This note discusses the out-of-sample (OOS) performance of several probit models used to assess the likelihood that the U.S. economy will be in a recession within the  following year. 
    
