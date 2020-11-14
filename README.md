@@ -1,2 +1,3 @@
-# tylerJpike.github.io
+# Tyler J. Pike
+
 Personal academic website

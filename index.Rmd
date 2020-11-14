@@ -1,19 +1,46 @@
----
-  title: "Tyler J. Pike"
----
+
+<style>
+.column-left{
+  padding-top: 25pt;
+  padding-bottom: 25pt;
+  float: left;
+  width: 15%;
+  height: 200pt;
+  text-align: right;
+}
+.column-right{
+  padding-top: 25pt;
+  padding-bottom: 25pt;
+  float: right;
+  width: 83%;
+  height: 200pt;
+  text-align: left;
+}
+</style>
+
+
+<div class="column-left">
+
+   <img src="./content/Pike Profile Picture.png" style="width:100%">
+   
+</div>
+
+
+<div class="column-right">
+
+# Tyler J. Pike
+I am an econometrician and data scientist seeking to bridge the gap between economics and artificial intelligence. My research interests include machine learning for both forecasting and causal inference, quantitative finance (particularly asset pricing and financial conditions),  and the transmission channels between the financial sector, markets, and the real economy. I am currently serving as a research assistant at the Federal Reserve Board in the Macro-Financial Analysis section of the Division of Monetary Affairs. I additionally serve as a research assistant for Vice Chair Clarida.
+
+</div>  
   
-I am an econometrician and data scientist seeking to bridge the gap between economics and artificial intelligence. My research interest include machine learning for both forecasting and causal inference, quantitative finace (particularly asset pricing and financial conditions),  and the transmission channels between the financial sector, markets, and the real economy. I am currently serving as a research assistant at the Federal Reserve Board in the Macro-Financial Analysis section of the Division of Monetary Affairs. I additionally serve as a research assistant for Vice Chair Clarida.
-
--------
-
-## Current Projects
-
+ 
+## Current Projects  
 
 1. ### Combining forecasts: Can machines beat the average?
 
    Coauthored with Francisco Vazquez-Grande   
    
-   Abstract: Yes. This paper documents the benefits of combining forecasts using weights built with non-linear models.  We introduce our tree-based forecast combinations and compare them    with benchmark equal weight combination as well as other nonlinear forecast weights. We find that nonlinear models can improve consistently upon the equal weight alternative--breaking    the so-called ``forecast combination puzzle''--and that our proposed methods compete well with other nonlinear methods.
+   Abstract: Yes. This paper documents the benefits of combining forecasts using weights built with non-linear models.  We introduce our tree-based forecast combinations and compare them with benchmark equal weight combination as well as other nonlinear forecast weights. We find that nonlinear models can improve consistently upon the equal weight alternative--breaking the so-called ``forecast combination puzzle''--and that our proposed methods compete well with other nonlinear methods.
    
    [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691117),  [GitHub](https://github.com/tylerJPike/CanMachinesBeatTheAverage)  
 
@@ -22,11 +49,11 @@ I am an econometrician and data scientist seeking to bridge the gap between econ
 
    Coauthored with Horacio Sapriza and Tom Zimmermann
 
-   Abstract: This paper constructs a leading macroeconomic indicator from microeconomic data using recent machine learning techniques. Using tree-based methods, we estimate probabilities > of default for publicly traded non-financial firms in the United States. We then use the cross-section of out-of-sample predicted default probabilities to construct a leading indicator > of non-financial corporate health. The index predicts real economic outcomes such as GDP growth and employment up to eight quarters ahead. Impulse responses validate the interpretation > of the index as a measure of financial stress.
+   Abstract: This paper constructs a leading macroeconomic indicator from microeconomic data using recent machine learning techniques. Using tree-based methods, we estimate probabilities of default for publicly traded non-financial firms in the United States. We then use the cross-section of out-of-sample predicted default probabilities to construct a leading indicator of non-financial corporate health. The index predicts real economic outcomes such as GDP growth and employment up to eight quarters ahead. Impulse responses validate the interpretation > of the index as a measure of financial stress.
 
    [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3473056)
 
-## Non-peer reviewed 
+## Non-peer reviewed publications
 
 1. ### Out-of-Sample Performance of Recession Probability Models
   

@@ -1,11 +1,12 @@
 name: "Tyler J. Pike"
 output_dir: "."
+
 navbar:
   title: "Tyler J. Pike - economist and data scientist"
   type: inverse
   right:
     - text: "CV"
-      href: ./Tyler_Pike_CV.pdf
+      href: ./content/Tyler_Pike_CV.pdf
     - text: "Research"
       menu: 
       - text: "Google Scholar"
@@ -20,9 +21,15 @@ navbar:
         href: https://www.kaggle.com/tylerpike
     - icon: fa-envelope fa-lg
       href: mailto:<tjpike7@gmail.com>
+    - icon: fa fa-linkedin-square fa-lg
+      href: https://www.linkedin.com/in/tyler-j-pike/
+
 left:
   - text: "Home"
-href: index.html
+    href: index.html
+  - text: "Contact"
+    href: contract.html
+    
 output:
   html_document:
     theme: darkly
