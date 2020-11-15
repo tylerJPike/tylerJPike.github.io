@@ -29,6 +29,7 @@
 <div class="column-right">
 
 # Tyler J. Pike
+
 I am an econometrician and data scientist seeking to bridge the gap between economics and artificial intelligence. My research interests include machine learning for both forecasting and causal inference, quantitative finance (particularly asset pricing and financial conditions),  and the transmission channels between the financial sector, markets, and the real economy. I am currently serving as a research assistant at the Federal Reserve Board in the Macro-Financial Analysis section of the Division of Monetary Affairs. I additionally serve as a research assistant for Vice Chair Clarida.
 
 </div>  
