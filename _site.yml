@@ -17,8 +17,10 @@ navbar:
       menu: 
       - text: "GitHub"
         href: http://github.com/tylerJPike/
-      - text: "Kaggle"
-        href: https://www.kaggle.com/tylerpike
+      - text: "Packages"
+        href: ./packages.html
+      - text: "Research"
+        href: ./research_code.html
     - icon: fa-envelope fa-lg
       href: mailto:<tjpike7@gmail.com>
     - icon: fa fa-linkedin-square fa-lg
@@ -27,8 +29,6 @@ navbar:
 left:
   - text: "Home"
     href: index.html
-  - text: "Contact"
-    href: contract.html
     
 output:
   html_document:

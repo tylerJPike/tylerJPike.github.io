@@ -77,7 +77,7 @@ I am an aspiring econometrician and data scientist seeking to bridge the gap bet
 
 
 
-## Non-peer reviewed publications
+## Non-Peer Reviewed Publications
 
 1. ### Out-of-Sample Performance of Recession Probability Models
   
@@ -86,3 +86,15 @@ I am an aspiring econometrician and data scientist seeking to bridge the gap bet
    Abstract: This note discusses the out-of-sample (OOS) performance of several probit models used to assess the likelihood that the U.S. economy will be in a recession within the  following year. 
    
    [FEDS Note](https://www.federalreserve.gov/econres/notes/feds-notes/out-of-sample-performance-of-recession-probability-models-20191213.htm)
+
+## R Packages
+
+1. ### Out-Of-Sample Time Series Forecasting Workbench
+   This package creates a paradigm to provide a structured and automatd approach to out-of-sample time series forecasting, a common, important, and subtle task. In many ways, this package is merely a wrapper for the excellent exant time series forecasting routines on CRAN -- including both traditional econometric time series models and modern machine learning techniques. However, this package additionally provides a modern and comprehensive set of forecast combination tools and forecast comparison metrics.  
+
+   [Github](https://github.com/tylerJPike/OOS)
+
+2. ### Tree-Based Impulse Response Functions  
+   This package produces and plots tree-based impulse response functions. Users may choose from two random forest variants, implement instrumental variable, allow state-dependence, and choose lags based on information criteria or forecasting accuracy.   
+
+   [GitHub](https://github.com/tylerJPike/treeImpulses)  
