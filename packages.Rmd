@@ -27,7 +27,7 @@ output: html_document
 
    The sovereign package introduces a set of tools for state-dependent empirical analysis through both VAR- and local projection-based state-dependent forecasts, impulse response functions, and forecast error variance decomposition.
    
-   [GitHub](https://github.com/tylerJPike/sovereign), [Website](https://tylerjpike.github.io/sovereign/), [CRAN](https://cloud.r-project.org/web/packages/sovereign/index.html)]
+   [GitHub](https://github.com/tylerJPike/sovereign), [Website](https://tylerjpike.github.io/sovereign/), [CRAN](https://cloud.r-project.org/web/packages/sovereign/index.html)
 
 3. ### Tree-Based Impulse Response Functions
 <!-- badges: start -->
