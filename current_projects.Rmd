@@ -19,7 +19,6 @@ output: html_document
    
    Abstract: This paper introduces methods to estimate and conduct inference on impulse responses without specification and estimation of the underlying system, which are particularly suited in the presence of a nonlinear structure.  We use flexible machine learning techniques to estimate response values at each horizon of interest, as it is done with local projections. The advantages of our tree-based method over traditional available methods to estimate impulse responses are the following: (1) they automatically estimate nonlinear specifications without having to postulate a specific nonlinear model; (2) they allow for the inclusion of a large number of covariates that far exceed the limits of linear models; (3) they are more robust to model misspecification; (4) they can estimate asymmetric impulses based on the sign and magnitude of a shock. We present Monte Carlo evidence and applications to a simple models that make these advantages apparent.
 
-   [Extended Abstract](./content/Tree_based_Direct_Projections.pdf), [R package](https://github.com/tylerJPike/treeImpulses)
 
 3. ### A Tree-Based Model to Evaluate the Determinants of Changes in Bank Lending Standards in the U.S.
 
