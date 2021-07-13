@@ -13,7 +13,7 @@ output: html_document
    
    Abstract: Yes. This paper documents the benefits of combining forecasts using weights built with non-linear models.  We introduce our tree-based forecast combinations and compare them with benchmark equal weight combination as well as other nonlinear forecast weights. We find that nonlinear models can improve consistently upon the equal weight alternative--breaking the so-called ``forecast combination puzzle''--and that our proposed methods compete well with other nonlinear methods.
    
-   [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691117),  [GitHub](https://github.com/tylerJPike/CanMachinesBeatTheAverage)  
+   [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691117) |  [GitHub](https://github.com/tylerJPike/CanMachinesBeatTheAverage)  
 
 2. ### Bottom-up Leading Macroeconomic Indicators: An Application to Non-Financial Corporate Defaults Using Machine Learning
 
@@ -22,7 +22,7 @@ output: html_document
    Abstract: This paper constructs a leading macroeconomic indicator from microeconomic data using recent machine learning techniques. Using tree-based methods, we estimate probabilities of default for publicly traded non-financial firms in the United States. We then use the cross-section of out-of-sample predicted default probabilities to construct a leading indicator of non-financial corporate health. The index predicts real economic outcomes such as GDP growth and employment up to eight quarters ahead. Impulse responses validate the interpretation of the index as a measure of financial stress.
    
    
-   [FEDS Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3473056), [GitHub](https://github.com/tylerJPike/BottomUpMacroIndicators)
+   [FEDS Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3473056) | [GitHub](https://github.com/tylerJPike/BottomUpMacroIndicators)
 
 ## Non-Peer Reviewed
 

@@ -2,7 +2,7 @@ name: "Tyler J. Pike"
 output_dir: "."
 
 navbar:
-  title: "Tyler J. Pike - economist and data scientist"
+  title: "Tyler J. Pike"
   type: inverse
   right:
     - text: "CV"
@@ -27,10 +27,6 @@ navbar:
       - text: ---
       - text: "GitHub"
         href: http://github.com/tylerJPike/
-    - icon: fa-envelope fa-lg
-      href: mailto:<tjpike7@gmail.com>
-    - icon: fa fa-linkedin-square fa-lg
-      href: https://www.linkedin.com/in/tyler-j-pike/
 
 left:
   - text: "Home"

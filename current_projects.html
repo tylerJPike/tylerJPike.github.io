@@ -32,8 +32,6 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -239,7 +237,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Tyler J. Pike - economist and data scientist</a>
+      <a class="navbar-brand" href="index.html">Tyler J. Pike</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -290,18 +288,6 @@ $(document).ready(function () {
     </li>
   </ul>
 </li>
-<li>
-  <a href="mailto:&lt;tjpike7@gmail.com&gt;">
-    <span class="fas fa-envelope fa-lg"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="https://www.linkedin.com/in/tyler-j-pike/">
-    <span class="fa fa fa fa-linkedin-square fa-lg"></span>
-     
-  </a>
-</li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -317,11 +303,22 @@ $(document).ready(function () {
 
 
 <hr />
+<div id="working-papers" class="section level2">
+<h2>Working Papers</h2>
 <ol style="list-style-type: decimal">
 <li><h3 id="combining-forecasts-can-machines-beat-the-average">Combining Forecasts: Can Machines Beat the Average?</h3>
 <p>Coauthored with Francisco Vazquez-Grande</p>
 <p>Abstract: Yes. This paper documents the benefits of combining forecasts using weights built with non-linear models. We introduce our tree-based forecast combinations and compare them with benchmark equal weight combination as well as other nonlinear forecast weights. We find that nonlinear models can improve consistently upon the equal weight alternative–breaking the so-called ``forecast combination puzzle’’–and that our proposed methods compete well with other nonlinear methods.</p>
-<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691117">Working paper</a>, <a href="https://github.com/tylerJPike/CanMachinesBeatTheAverage">GitHub</a></p></li>
+<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691117">Working paper</a> | <a href="https://github.com/tylerJPike/CanMachinesBeatTheAverage">GitHub</a></p></li>
+<li><h3 id="bottom-up-leading-macroeconomic-indicators-an-application-to-non-financial-corporate-defaults-using-machine-learning">Bottom-up Leading Macroeconomic Indicators: An Application to Non-Financial Corporate Defaults Using Machine Learning</h3>
+<p>Coauthored with Horacio Sapriza and Tom Zimmermann</p>
+<p>Abstract: This paper constructs a leading macroeconomic indicator from microeconomic data using recent machine learning techniques. Using tree-based methods, we estimate probabilities of default for publicly traded non-financial firms in the United States. We then use the cross-section of out-of-sample predicted default probabilities to construct a leading indicator of non-financial corporate health. The index predicts real economic outcomes such as GDP growth and employment up to eight quarters ahead. Impulse responses validate the interpretation of the index as a measure of financial stress.</p>
+<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3473056">FEDS Paper</a> | <a href="https://github.com/tylerJPike/BottomUpMacroIndicators">GitHub</a></p></li>
+</ol>
+</div>
+<div id="works-in-progress" class="section level2">
+<h2>Works in Progress</h2>
+<ol style="list-style-type: decimal">
 <li><h3 id="estimation-and-inference-of-impulse-responses-with-random-forests">Estimation and Inference of Impulse Responses With Random Forests</h3>
 <p>Coathored with Francisco Vazquez-Grande</p>
 <p>Abstract: This paper introduces methods to estimate and conduct inference on impulse responses without specification and estimation of the underlying system, which are particularly suited in the presence of a nonlinear structure. We use flexible machine learning techniques to estimate response values at each horizon of interest, as it is done with local projections. The advantages of our tree-based method over traditional available methods to estimate impulse responses are the following: (1) they automatically estimate nonlinear specifications without having to postulate a specific nonlinear model; (2) they allow for the inclusion of a large number of covariates that far exceed the limits of linear models; (3) they are more robust to model misspecification; (4) they can estimate asymmetric impulses based on the sign and magnitude of a shock. We present Monte Carlo evidence and applications to a simple models that make these advantages apparent.</p></li>
@@ -332,6 +329,7 @@ $(document).ready(function () {
 <p>Coauthored with Elijah Broadbent and Horacio Sapriza</p>
 <p>Abstract: We construct bank credit supply indicators for the four major loan categories in the United States using changes in lending standards from bank-level responses to the Federal Reserve’s Senior Loan Officer Opinion Survey on Bank Lending Practices, adjusted for macroeconomic and bank-specific factors that affect loan demand. We evaluate the ability of these indicators to predict economic activity and estimate the effect of unit shocks to these indicators on economic activity and monetary policy rates. First, we find that credit supply indicators for business loans generally provide more out-of-sample predictive information for economic activity than the indicators for household loans. Second, we find that negative shocks to the credit supply indicators decrease economic activity and monetary policy rates, particularly when applied to the commercial and industrial lending category. Third, we find that the magnitude of these effects strongly depends on the stance of monetary policy and broad financial conditions, whereas a negative shock leads to monetary policy easing and declines in economic activity when either financing conditions or the monetary policy stance are tight, but has little impact otherwise.</p></li>
 </ol>
+</div>
 
 
 
