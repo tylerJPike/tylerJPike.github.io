@@ -34,4 +34,6 @@ left:
     
 output:
   html_document:
-    theme: darkly
+    theme: flatly
+    
+# swtich to fltaly for white background
