@@ -41,16 +41,7 @@
 <div class="column-pic">
 
    <img src="./content/Pike Profile Picture.png" style="width:100%">
-   
-   <p align=left>
-   [![Github badge](https://img.shields.io/badge/Google_Scholar-black?style=flat-square&logo=GoogleScholar&logoColor=white)](https://scholar.google.com/citations?user=S21ZxVwAAAAJ&hl=en)  
-  [![Github badge](https://img.shields.io/badge/SSRN-black?style=flat-square&logo=SSRN&logoColor=white)](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3097491)  
-  [![Github badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/tylerJPike)  
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tyler-j-pike/)](https://www.linkedin.com/in/tyler-j-pike/)  
-  [![Website](https://img.shields.io/badge/Website-black?style=flat-square&logo=InternetExplorer&logoColor=white)](https://tylerjpike.github.io/)  
-  [![Gmail Badge](https://img.shields.io/badge/-Mail-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjpike7@gmail.com)](mailto:tjpike7@gmail.com)
-  </p>
-   
+
 </div>
 
 
@@ -66,11 +57,11 @@
 
 1. University of Maryland     
 *current position*
-    - PhD candidate in economics  
+    - PhD student in economics  
 
 2. Federal Reserve Board   
     - Research Assistant to Vice Chair Clarida   
-    - Sr. Research Assistant in Macro-Financial Analysis section of the Division of Monetary Affairs    
+    - Sr. Research Assistant in the Macro-Financial Analysis section of the Division of Monetary Affairs    
 
 3. University of Richmond  
     - BS in Mathematical Economics   

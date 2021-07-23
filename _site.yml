@@ -27,6 +27,12 @@ navbar:
       - text: ---
       - text: "GitHub"
         href: http://github.com/tylerJPike/
+    - text: "Contact"
+      menu:
+      - text: "Email"
+        href: mailto:tjpike7@gmail.com
+      - text: "LinkedIn"
+        href: https://www.linkedin.com/in/tyler-j-pike/)
 
 left:
   - text: "Home"
@@ -35,5 +41,9 @@ left:
 output:
   html_document:
     theme: flatly
+  
+template:
+  params:
+    ganalytics: G-GWC6J2BGBM
     
 # swtich to fltaly for white background
