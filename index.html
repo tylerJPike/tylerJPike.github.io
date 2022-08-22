@@ -13,8 +13,8 @@
 
 <title>Tyler J. Pike</title>
 
-<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -80,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -232,7 +236,7 @@ $(document).ready(function () {
 <div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -248,7 +252,7 @@ $(document).ready(function () {
   <a href="./content/Tyler_Pike_CV.pdf">CV</a>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Research
      
     <span class="caret"></span>
@@ -270,7 +274,7 @@ $(document).ready(function () {
   </ul>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Code
      
     <span class="caret"></span>
@@ -289,7 +293,7 @@ $(document).ready(function () {
   </ul>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Contact
      
     <span class="caret"></span>
@@ -353,14 +357,15 @@ $(document).ready(function () {
 }
 </style>
 <div class="column-pic">
-<p><img src="content/Pike%20Profile%20Picture.png" style="width:100%"></p>
+<p><img src="content/Pike%20Profile%20Picture.jpg" style="width:100%"></p>
 </div>
 <div class="column-text">
 <p align="center">
 <span style="font-size:5em;"> Tyler J. Pike </span>
 </p>
 <p align="center">
-<span style="font-size:2em;"> Economics PhD Student | Statistical Software Engineer </span>
+<span style="font-size:2em;"> Economics PhD Student | Statistical
+Software Engineer </span>
 </p>
 <hr />
 <div id="background" class="section level3">
@@ -369,19 +374,21 @@ $(document).ready(function () {
 <li>University of Maryland<br />
 <em>current position</em>
 <ul>
-<li>PhD student in economics</li>
+<li>PhD student in economics<br />
+</li>
+<li>Research Assistant to John Haltiwanger</li>
 </ul></li>
 <li>Federal Reserve Board
 <ul>
 <li>Research Assistant to Vice Chair Clarida<br />
 </li>
-<li>Sr. Research Assistant in the Macro-Financial Analysis section of the Division of Monetary Affairs</li>
+<li>Research Assistant to Macro-Financial Anlaysis Section</li>
 </ul></li>
 <li>University of Richmond
 <ul>
 <li>BS in Mathematical Economics<br />
 </li>
-<li>Research Assistant and Research Fellow</li>
+<li>Economics Research Assistant and Research Fellow</li>
 </ul></li>
 </ol>
 </div>
@@ -390,8 +397,10 @@ $(document).ready(function () {
 <div id="research-interests" class="section level4">
 <h4>Research Interests</h4>
 <ol style="list-style-type: decimal">
-<li><p><strong>Statistics and econometrics</strong>: I am interested in how we extract information from data, with a particular focus on using traditional econometric and modern machine learning techniques for causal inference.</p></li>
-<li><p><strong>Macro-finance</strong>: I am also interested in the way that we allocate resources (capital) across various economic activities - both in the system by which we move capital and the allocations themselves - and the consequences of these systems and allocations on production, inflation, and labor market outcomes.</p></li>
+<li><strong>Macroeconomics</strong>: Macro-Finance, Monetary Policy,
+Firm Dynamics</li>
+<li><strong>Econometrics</strong>: Non-linear statistics and machine
+learning, time series analysis and macroeconometrics</li>
 </ol>
 </div>
 <div id="selected-research" class="section level4">
@@ -399,20 +408,35 @@ $(document).ready(function () {
 <ol style="list-style-type: decimal">
 <li><p>“Combining forecasts: Can machines beat the average?”<br />
 with Francisco Vazquez-Grande, September 2020<br />
-<a href="https://github.com/tylerJPike/CanMachinesBeatTheAverage">Github</a> | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691117">Working Paper</a></p></li>
-<li><p>“Bottom-up leading macroeconomic indicators: An application to non-financial corporate defaults using machine learning”<br />
+<a
+href="https://github.com/tylerJPike/CanMachinesBeatTheAverage">Github</a>
+| <a
+href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691117">Working
+Paper</a></p></li>
+<li><p>“Bottom-up leading macroeconomic indicators: An application to
+non-financial corporate defaults using machine learning”<br />
 with Horacio Sapriza, and Tom Zimmermann, September 2019<br />
-<a href="https://github.com/tylerJPike/BottomUpMacroIndicators">Github</a> | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3473056">Working Paper</a></p></li>
+<a
+href="https://github.com/tylerJPike/BottomUpMacroIndicators">Github</a>
+| <a
+href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3473056">Working
+Paper</a></p></li>
 </ol>
 </div>
 </div>
 <div id="software" class="section level3 column-right">
 <h3><a href="./packages.html">Software</a></h3>
 <ol style="list-style-type: decimal">
-<li><p><span style="font-size:1.25em;"><strong>OOS</strong></span> for out-of-sample time series forecasting<br />
-<a href="https://github.com/tylerJPike/OOS">Github</a> | <a href="https://tylerjpike.github.io/OOS/">Website</a> | <a href="https://cran.r-project.org/web/packages/OOS/index.html">CRAN</a></p></li>
-<li><p><span style="font-size:1.25em;"><strong>sovereign</strong></span> for state-dependent empirical analysis<br />
-<a href="https://github.com/tylerJPike/sovereign">Github</a> | <a href="https://tylerjpike.github.io/sovereign/">Website</a> | <a href="https://cran.r-project.org/web/packages/sovereign/index.html">CRAN</a></p></li>
+<li><p><span style="font-size:1.25em;"><strong>OOS</strong></span> for
+out-of-sample time series forecasting<br />
+<a href="https://github.com/tylerJPike/OOS">Github</a> | <a
+href="https://tylerjpike.github.io/OOS/">Website</a> | <a
+href="https://cran.r-project.org/web/packages/OOS/index.html">CRAN</a></p></li>
+<li><p><span style="font-size:1.25em;"><strong>sovereign</strong></span>
+for state-dependent empirical analysis<br />
+<a href="https://github.com/tylerJPike/sovereign">Github</a> | <a
+href="https://tylerjpike.github.io/sovereign/">Website</a> | <a
+href="https://cran.r-project.org/web/packages/sovereign/index.html">CRAN</a></p></li>
 </ol>
 </div>
 </div>

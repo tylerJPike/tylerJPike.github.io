@@ -13,8 +13,8 @@
 
 <title>Packages</title>
 
-<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -80,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -232,7 +236,7 @@ $(document).ready(function () {
 <div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -248,7 +252,7 @@ $(document).ready(function () {
   <a href="./content/Tyler_Pike_CV.pdf">CV</a>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Research
      
     <span class="caret"></span>
@@ -270,7 +274,7 @@ $(document).ready(function () {
   </ul>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Code
      
     <span class="caret"></span>
@@ -289,7 +293,7 @@ $(document).ready(function () {
   </ul>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Contact
      
     <span class="caret"></span>
@@ -319,16 +323,62 @@ $(document).ready(function () {
 
 <hr />
 <ol style="list-style-type: decimal">
-<li><h3 id="out-of-sample-time-series-forecasting">Out-Of-Sample Time Series Forecasting</h3>
+<li><h3 id="out-of-sample-time-series-forecasting">Out-Of-Sample Time
+Series Forecasting</h3>
 <!-- badges: start -->
-<p><a href="http://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg" alt="License: GPL v3" /></a> <a href="https://CRAN.R-project.org/package=OOS"><img src="https://www.r-pkg.org/badges/version/OOS" alt="CRAN status" /></a> <a href="https://lifecycle.r-lib.org/articles/stages.html"><img src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg" alt="Lifecycle: stable" /></a> <a href="https://codecov.io/gh/tylerJPike/OOS"><img src="https://codecov.io/gh/tylerJPike/OOS/branch/main/graph/badge.svg?token=AQ4PFWU3KS" alt="codecov" /></a> <a href="https://travis-ci.org/tylerJPike/OOS"><img src="https://travis-ci.org/tylerJPike/OOS.svg?branch=main" alt="Build Status" /></a> <a href="https://r-pkg.org/pkg/OOS"><img src="https://cranlogs.r-pkg.org/badges/grand-total/OOS?color=blue" alt="CRAN RStudio mirror downloads" /></a> <!-- badges: end --></p>
-<p>The OOS package introduces a structured and automated approach to out-of-sample time series forecasting, a common, important, and subtle task. In many ways, this package is merely a wrapper for the excellent extant time series forecasting routines on CRAN - including both traditional econometric time series models and modern machine learning techniques. However, this package additionally provides a modern and comprehensive set of forecast combination techniques and forecast analysis tools.</p>
-<p><a href="https://github.com/tylerJPike/OOS">GitHub</a> | <a href="https://tylerjpike.github.io/OOS/">Website</a> | <a href="https://cran.r-project.org/web/packages/OOS/index.html">CRAN</a></p></li>
-<li><h3 id="state-dependent-empirical-analysis">State-Dependent Empirical Analysis</h3>
+<p><a href="http://www.gnu.org/licenses/gpl-3.0"><img
+src="https://img.shields.io/badge/License-GPL%20v3-blue.svg"
+alt="License: GPL v3" /></a> <a
+href="https://CRAN.R-project.org/package=OOS"><img
+src="https://www.r-pkg.org/badges/version/OOS" alt="CRAN status" /></a>
+<a href="https://lifecycle.r-lib.org/articles/stages.html"><img
+src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg"
+alt="Lifecycle: stable" /></a> <a
+href="https://codecov.io/gh/tylerJPike/OOS"><img
+src="https://codecov.io/gh/tylerJPike/OOS/branch/main/graph/badge.svg?token=AQ4PFWU3KS"
+alt="codecov" /></a> <a href="https://travis-ci.org/tylerJPike/OOS"><img
+src="https://travis-ci.org/tylerJPike/OOS.svg?branch=main"
+alt="Build Status" /></a> <a href="https://r-pkg.org/pkg/OOS"><img
+src="https://cranlogs.r-pkg.org/badges/grand-total/OOS?color=blue"
+alt="CRAN RStudio mirror downloads" /></a> <!-- badges: end --></p>
+<p>The OOS package introduces a structured and automated approach to
+out-of-sample time series forecasting, a common, important, and subtle
+task. In many ways, this package is merely a wrapper for the excellent
+extant time series forecasting routines on CRAN - including both
+traditional econometric time series models and modern machine learning
+techniques. However, this package additionally provides a modern and
+comprehensive set of forecast combination techniques and forecast
+analysis tools.</p>
+<p><a href="https://github.com/tylerJPike/OOS">GitHub</a> | <a
+href="https://tylerjpike.github.io/OOS/">Website</a> | <a
+href="https://cran.r-project.org/web/packages/OOS/index.html">CRAN</a></p></li>
+<li><h3 id="state-dependent-empirical-analysis">State-Dependent
+Empirical Analysis</h3>
 <!-- badges: start -->
-<p><a href="http://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg" alt="License: GPL v3" /></a> <a href="https://CRAN.R-project.org/package=sovereign"><img src="https://www.r-pkg.org/badges/version/sovereign" alt="CRAN status" /></a> <a href="https://lifecycle.r-lib.org/articles/stages.html"><img src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg" alt="Lifecycle: stable" /></a> <a href="https://codecov.io/gh/tylerJPike/sovereign"><img src="https://codecov.io/gh/tylerJPike/sovereign/branch/main/graph/badge.svg?token=WXLWR6H93B" alt="codecov" /></a> <a href="https://github.com/tylerJPike/sovereign/actions"><img src="https://github.com/tylerJPike/sovereign/workflows/R-CMD-check/badge.svg" alt="R-CMD-check" /></a> <a href="https://r-pkg.org/pkg/sovereign"><img src="https://cranlogs.r-pkg.org/badges/grand-total/sovereign?color=blue" alt="CRAN RStudio mirror downloads" /></a> <!-- badges: end --></p>
-<p>The sovereign package introduces a set of tools for state-dependent empirical analysis through both VAR- and local projection-based state-dependent forecasts, impulse response functions, and forecast error variance decomposition.</p>
-<p><a href="https://github.com/tylerJPike/sovereign">GitHub</a> | <a href="https://tylerjpike.github.io/sovereign/">Website</a> | <a href="https://cloud.r-project.org/web/packages/sovereign/index.html">CRAN</a></p></li>
+<p><a href="http://www.gnu.org/licenses/gpl-3.0"><img
+src="https://img.shields.io/badge/License-GPL%20v3-blue.svg"
+alt="License: GPL v3" /></a> <a
+href="https://CRAN.R-project.org/package=sovereign"><img
+src="https://www.r-pkg.org/badges/version/sovereign"
+alt="CRAN status" /></a> <a
+href="https://lifecycle.r-lib.org/articles/stages.html"><img
+src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg"
+alt="Lifecycle: stable" /></a> <a
+href="https://codecov.io/gh/tylerJPike/sovereign"><img
+src="https://codecov.io/gh/tylerJPike/sovereign/branch/main/graph/badge.svg?token=WXLWR6H93B"
+alt="codecov" /></a> <a
+href="https://github.com/tylerJPike/sovereign/actions"><img
+src="https://github.com/tylerJPike/sovereign/workflows/R-CMD-check/badge.svg"
+alt="R-CMD-check" /></a> <a href="https://r-pkg.org/pkg/sovereign"><img
+src="https://cranlogs.r-pkg.org/badges/grand-total/sovereign?color=blue"
+alt="CRAN RStudio mirror downloads" /></a> <!-- badges: end --></p>
+<p>The sovereign package introduces a set of tools for state-dependent
+empirical analysis through both VAR- and local projection-based
+state-dependent forecasts, impulse response functions, and forecast
+error variance decomposition.</p>
+<p><a href="https://github.com/tylerJPike/sovereign">GitHub</a> | <a
+href="https://tylerjpike.github.io/sovereign/">Website</a> | <a
+href="https://cloud.r-project.org/web/packages/sovereign/index.html">CRAN</a></p></li>
 </ol>
 
 
