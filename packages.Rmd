@@ -12,7 +12,6 @@ output: html_document
 [![CRAN status](https://www.r-pkg.org/badges/version/OOS)](https://CRAN.R-project.org/package=OOS)
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html)
 [![codecov](https://codecov.io/gh/tylerJPike/OOS/branch/main/graph/badge.svg?token=AQ4PFWU3KS)](https://codecov.io/gh/tylerJPike/OOS)
-[![Build Status](https://travis-ci.org/tylerJPike/OOS.svg?branch=main)](https://travis-ci.org/tylerJPike/OOS)
 [![CRAN RStudio mirror downloads](https://cranlogs.r-pkg.org/badges/grand-total/OOS?color=blue)](https://r-pkg.org/pkg/OOS)
 <!-- badges: end -->
 
@@ -26,7 +25,6 @@ output: html_document
 [![CRAN status](https://www.r-pkg.org/badges/version/sovereign)](https://CRAN.R-project.org/package=sovereign)
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html)
 [![codecov](https://codecov.io/gh/tylerJPike/sovereign/branch/main/graph/badge.svg?token=WXLWR6H93B)](https://codecov.io/gh/tylerJPike/sovereign)
-[![R-CMD-check](https://github.com/tylerJPike/sovereign/workflows/R-CMD-check/badge.svg)](https://github.com/tylerJPike/sovereign/actions) 
 [![CRAN RStudio mirror downloads](https://cranlogs.r-pkg.org/badges/grand-total/sovereign?color=blue)](https://r-pkg.org/pkg/sovereign)
 <!-- badges: end -->
 
