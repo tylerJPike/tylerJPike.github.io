@@ -48,8 +48,6 @@
 <div class="column-text">
 
 <p align=center> <span style="font-size:5em;"> Tyler J. Pike </span> </p>
-<p align=center> <span style="font-size:2em;"> Economics PhD Student | Statistical Software Engineer </span> </p>
-
 
 ---
 
