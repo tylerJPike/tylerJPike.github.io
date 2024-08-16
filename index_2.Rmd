@@ -1,0 +1,105 @@
+
+<style>
+.column-left{
+  padding-top: 25pt;
+  padding-bottom: 25pt;
+  float: left;
+  width: 50%;
+  height: 200pt;
+  text-align: left;
+}
+.column-right{
+  padding-top: 25pt;
+  padding-bottom: 25pt;
+  float: right;
+  width: 50%;
+  height: 200pt;
+  text-align: left;
+}
+</style>
+
+<style>
+.column-pic{
+  padding-top: 25pt;
+  padding-bottom: 25pt;
+  float: left;
+  width: 15%;
+  height: 200pt;
+  text-align: right;
+}
+.column-text{
+  padding-top: 25pt;
+  padding-bottom: 25pt;
+  float: right;
+  width: 83%;
+  height: 200pt;
+  text-align: left;
+}
+</style>
+
+
+<div class="column-pic">
+
+   <img src="./content/Pike Profile Picture.jpg" style="width:100%">
+
+</div>
+
+
+<div class="column-text">
+
+<p align=center> <span style="font-size:5em;"> Tyler J. Pike </span> </p>
+
+---
+
+### [Background](./content/Tyler_Pike_CV.pdf)  
+
+1. University of Maryland     
+*current position*
+    - Economics PhD Candidate  
+    - U.S. Census Bureau intern (2024 - current)  
+    - Research Assistant to John Haltiwanger  (2022 - 2024)  
+
+2. Federal Reserve Board   
+    - Research Assistant to Vice Chair Clarida   
+    - Research Assistant to Macro-Financial Anlaysis Section      
+
+3. University of Richmond  
+    - BS in Mathematical Economics   
+    - Economics Research Assistant and Research Fellow    
+
+<div class="column-left">
+  
+### [Research](./current_projects.html)
+
+#### Research Interests
+
+1. **Macroeconomics**: Macro-Finance, Monetary Policy, Firm Dynamics 
+2. **Econometrics**: Non-linear statistics and machine learning, time series analysis and macroeconometrics
+
+
+#### Selected Research   
+
+1. Bank Risk Sentiment     
+[Working paper (August 2024)](./content/Pike - Bank Risk Sentiment - Summer 2024.pdf)
+
+2. Bank Lending Standards and the U.S. Economy    
+with Elijah Broadbent, [Huberto Ennis](https://www.richmondfed.org/research/people/ennis), and [Horacio Sapriza](https://sites.google.com/view/horacio-sapriza/)
+[FRB Richmond WP (August 2024)](https://www.richmondfed.org/publications/research/working_papers/2024/wp_24-07)  
+
+</div>
+
+<div class="column-right">
+
+### [Software](./packages.html)  
+
+1.  <span style="font-size:1.25em;">**OOS**</span> for out-of-sample time series forecasting     
+[Github](https://github.com/tylerJPike/OOS) | [Website](https://tylerjpike.github.io/OOS/) | [CRAN](https://cran.r-project.org/web/packages/OOS/index.html)
+
+2. <span style="font-size:1.25em;">**sovereign**</span> for state-dependent empirical analysis      
+[Github](https://github.com/tylerJPike/sovereign) | [Website](https://tylerjpike.github.io/sovereign/) | [CRAN](https://cran.r-project.org/web/packages/sovereign/index.html)
+
+</div>  
+
+</div>  
+  
+ 

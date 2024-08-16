@@ -47,16 +47,24 @@
 
 <div class="column-text">
 
-<p align=center> <span style="font-size:5em;"> Tyler J. Pike </span> </p>
+  <p align=center> <span style="font-size:5em;"> Tyler J. Pike </span> </p>
+  
+   
 
----
+---  
+  
+###   
 
+I am a PhD candidate in Economics at the University of Maryland and U.S. Census Bureau intern. My research interests include topics in macro-finance, firm dynamics, and information economics. 
+  
+  &nbsp; 
+  
 ### [Background](./content/Tyler_Pike_CV.pdf)  
-
-1. University of Maryland     
-*current position*
-    - PhD student in economics  
-    - Research Assistant to John Haltiwanger  
+  
+1. University of Maryland  
+    - Economics PhD Candidate  
+    - U.S. Census Bureau intern (2024 - current)  
+    - Research Assistant to John Haltiwanger  (2022 - 2024)  
 
 2. Federal Reserve Board   
     - Research Assistant to Vice Chair Clarida   
@@ -66,40 +74,18 @@
     - BS in Mathematical Economics   
     - Economics Research Assistant and Research Fellow    
 
-<div class="column-left">
+  &nbsp; 
+
+### [Recent Activity]()
+
+- Summer 2024
+  - Participated in the FRB, BoC, and Study Center Gerzensee's *Summer Workshop on Money, Banking, Payments, and Finance*
+  - Updated working paper: *[Bank Risk Sentiment](./content/Pike - Bank Risk Sentiment - Summer 2024.pdf)* 
+  - New working paper: *[Bank Lending Standards and the U.S. Economy](https://www.richmondfed.org/publications/research/working_papers/2024/wp_24-07)*   
   
-### [Research](./current_projects.html)
-
-#### Research Interests
-
-1. **Macroeconomics**: Macro-Finance, Monetary Policy, Firm Dynamics 
-2. **Econometrics**: Non-linear statistics and machine learning, time series analysis and macroeconometrics
-
-
-#### Selected Research   
-
-1. "Combining forecasts: Can machines beat the average?"     
-with Francisco Vazquez-Grande, September 2020    
-[Github](https://github.com/tylerJPike/CanMachinesBeatTheAverage) | [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691117)  
-
-2. "Bottom-up leading macroeconomic indicators: An application to non-financial corporate defaults using machine learning"    
-with Horacio Sapriza, and Tom Zimmermann, September 2019    
-[Github](https://github.com/tylerJPike/BottomUpMacroIndicators) | [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3473056)  
-
-</div>
-
-<div class="column-right">
-
-### [Software](./packages.html)  
-
-1.  <span style="font-size:1.25em;">**OOS**</span> for out-of-sample time series forecasting     
-[Github](https://github.com/tylerJPike/OOS) | [Website](https://tylerjpike.github.io/OOS/) | [CRAN](https://cran.r-project.org/web/packages/OOS/index.html)
-
-2. <span style="font-size:1.25em;">**sovereign**</span> for state-dependent empirical analysis      
-[Github](https://github.com/tylerJPike/sovereign) | [Website](https://tylerjpike.github.io/sovereign/) | [CRAN](https://cran.r-project.org/web/packages/sovereign/index.html)
-
-</div>  
-
-</div>  
-  
- 
+  &nbsp; 
+     
+- Fall 2023 
+  - Presented Bank Risk Sentiment at the *Midwest Macro Meeting*
+  - Presented Bank Risk Sentiment at the *Treasury OFR PhD symposium*
+  - Participated in the *Princeton Initiative*
