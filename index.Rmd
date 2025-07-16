@@ -80,7 +80,7 @@ I am a PhD candidate in Economics at the University of Maryland and U.S. Census 
 
 - Spring 2025
   - *[Bank Lending Standards and the U.S. Economy](https://www.richmondfed.org/publications/research/working_papers/2024/wp_24-07)* R&R at *JEDC*
-  - Won BSOS Dean's Research Initiative Grant
+  - Awarded BSOS Dean's Research Initiative Grant
   - Updated working paper: *[Banks, Sentiments, and Business Cycles](./content/Pike - Banks, Sentiments, and Business Cycles - Summer 2025.pdf)*. (formerly *Bank Risk Sentiment*)
 
   
