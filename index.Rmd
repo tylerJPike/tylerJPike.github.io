@@ -55,7 +55,7 @@
   
 ###   
 
-I am a PhD candidate in Economics at the University of Maryland and U.S. Census Bureau intern. My research interests include topics in macro-finance, firm dynamics, and information economics. 
+I am a PhD candidate in Economics at the University of Maryland and U.S. Census Bureau intern. My research interests include topics in macro-finance, firm dynamics, and monetary economics. 
   
   &nbsp; 
   
@@ -68,7 +68,7 @@ I am a PhD candidate in Economics at the University of Maryland and U.S. Census 
 
 2. Federal Reserve Board   
     - Research Assistant to Vice Chair Clarida   
-    - Research Assistant to Macro-Financial Anlaysis Section      
+    - Research Assistant to Macro-Financial Analysis Section      
 
 3. University of Richmond  
     - BS in Mathematical Economics   
@@ -78,14 +78,27 @@ I am a PhD candidate in Economics at the University of Maryland and U.S. Census 
 
 ### [Recent Activity]()
 
+- Spring 2025
+  - *[Bank Lending Standards and the U.S. Economy](https://www.richmondfed.org/publications/research/working_papers/2024/wp_24-07)* R&R at *JEDC*
+  - Won BSOS Dean's Research Initiative Grant
+  - Updated working paper: *[Banks, Sentiments, and Business Cycles](./content/Pike - Banks, Sentiments, and Business Cycles - Summer 2025.pdf)*. (formerly *Bank Risk Sentiment*)
+
+  
+  &nbsp;
+  
+- Fall 2024 
+  - Presented *Uncertainty shocks and market concentration* at SEA Annual Meeting
+  
+  &nbsp;
+  
 - Summer 2024
   - Participated in the FRB, BoC, and Study Center Gerzensee's *Summer Workshop on Money, Banking, Payments, and Finance*
-  - Updated working paper: *[Bank Risk Sentiment](./content/Pike - Bank Risk Sentiment - Oct 2024.pdf)* 
-  - New working paper: *[Bank Lending Standards and the U.S. Economy](https://www.richmondfed.org/publications/research/working_papers/2024/wp_24-07)*   
-  
-  &nbsp; 
-     
-- Fall 2023 
-  - Presented Bank Risk Sentiment at the *Midwest Macro Meeting*
-  - Presented Bank Risk Sentiment at the *Treasury OFR PhD symposium*
-  - Participated in the *Princeton Initiative*
+  - Updated working paper: Bank Risk Sentiment
+  - New working paper: *[Bank Lending Standards and the U.S. Economy](https://www.richmondfed.org/publications/research/working_papers/2024/wp_24-07)*
+
+  <!-- &nbsp; -->
+
+<!-- - Fall 2023 -->
+<!--   - Presented Bank Risk Sentiment at the *Midwest Macro Meeting* -->
+<!--   - Presented Bank Risk Sentiment at the *Treasury OFR PhD symposium* -->
+<!--   - Participated in the *Princeton Initiative* -->
