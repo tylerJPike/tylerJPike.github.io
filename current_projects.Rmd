@@ -14,7 +14,7 @@ output: html_document
    [Working paper (July 2025)](./content/Pike - Banks, Sentiments, and Business Cycles - Summer 2025.pdf)
 
 
-2. ### Bank Lending Standards and the U.S. Economy *(R&R at JEDC)*
+2. ### Bank Lending Standards and the U.S. Economy *(Accepted at JEDC)*
 
    Coauthored with Elijah Broadbent,  [Huberto Ennis](https://www.richmondfed.org/research/people/ennis), and [Horacio Sapriza](https://www.richmondfed.org/research/people/sapriza)  
    
@@ -29,5 +29,8 @@ output: html_document
    Coauthored with [Andrea Ajello](https://sites.google.com/site/ajelloandrea/)
 
 
-2. ### Uncertainty Shocks and Market Concentration     
+2. ### Banks as Firms: The Macroeconomics of Financial Firm Dynamics     
+
+
+3. ### Uncertainty Shocks and Market Concentration     
 
