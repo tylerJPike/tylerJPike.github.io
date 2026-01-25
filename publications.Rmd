@@ -5,8 +5,22 @@ output: html_document
 
 --- 
 
+## Peer Reviewed
 
-## Non-Peer Reviewed
+1. ### Bank Lending Standards and the U.S. Economy
+
+    **Journal of Economic Dynamics and Control**. Volume 183, February 2026
+  
+    Coauthored with Elijah Broadbent,  [Huberto Ennis](https://www.richmondfed.org/research/people/ennis), and [Horacio Sapriza](https://www.richmondfed.org/research/people/sapriza)  
+  
+    Abstract: The provision of bank credit to firms and households affects macroeconomic performance. We use survey measures of changes in bank lending standards, disaggregated by loan category, to quantify the effect of changes in banks’ attitudes toward lending on aggregate output, inflation, and interest rates. Bank lending to businesses is particularly important for macroeconomic outcomes, with peak effects on output growth of around 30 to 40 basis points after four quarters of the initial shock. These effects depend on the stage of the business cycle and the proximity of the short-term interest rate to its effective lower bound. The effects are larger when output is growing below trend, when uncertainty is increasing or high, and when interest rates are away from the lower bound. We also find that the response of the economy to lending-standards shocks is asymmetric, with tightening shocks having larger effects on output.  
+ 
+    Paper: [Published Paper](https://www.sciencedirect.com/science/article/abs/pii/S0165188925002131),   [FRB Richmond WP (August 2024)](https://www.richmondfed.org/publications/research/working_papers/2024/wp_24-07)
+    
+    Data: [Micro-adjusted lending standard shocks](./content/lending_standard_shocks.xlsx) 
+
+
+## Pre-Doctoral Research  
 
 1. ### Out-of-Sample Performance of Recession Probability Models
   
@@ -16,9 +30,8 @@ output: html_document
    
    [FEDS Note](https://www.federalreserve.gov/econres/notes/feds-notes/out-of-sample-performance-of-recession-probability-models-20191213.htm)
 
-## Pre-Doctoral Research  
 
-1. ### Combining Forecasts: Can Machines Beat the Average?
+2. ### Combining Forecasts: Can Machines Beat the Average?
 
    Coauthored with Francisco Vazquez-Grande   
    
@@ -26,7 +39,7 @@ output: html_document
    
    [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691117) |  [GitHub](https://github.com/tylerJPike/CanMachinesBeatTheAverage)  
 
-2. ### Bottom-up Leading Macroeconomic Indicators: An Application to Non-Financial Corporate Defaults Using Machine Learning
+3. ### Bottom-up Leading Macroeconomic Indicators: An Application to Non-Financial Corporate Defaults Using Machine Learning
 
    Coauthored with Horacio Sapriza and Tom Zimmermann 
 
