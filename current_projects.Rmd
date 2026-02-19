@@ -7,7 +7,15 @@ output: html_document
 
 ## Working Papers
 
-1. ### Banks, Sentiments, and Business 
+1. ### Banks as Firms: The Macroeconomics of Financial Firm Dynamics 
+
+   **Job Market Paper**  
+
+   Abstract: This paper studies the firm dynamics of banks and their role in shaping aggregate and regional business cycles. I develop a framework in which banks are heterogeneous firms that endogenously enter and exit oligopolistic regional loan markets, competing on screening ability, funding costs, loan appeal, and regulatory costs. The model delivers sharp predictions linking loan rates, market shares, and entry decisions to bank fundamentals and local frictions. Guided by theory, I estimate bank-level fundamentals and region-level loan market frictions using a structurally identified dynamic state-space model. Screening ability emerges as the primary driver of bank growth and market share, while loan market frictions explain over half of aggregate loan spreads. Embedding the estimated bank dynamics in a quantitative multi-region New Keynesian DSGE model, I show that banking shocks account for roughly one-third of output fluctuations and generate substantial regional heterogeneity. Bank dynamics drive the uneven amplification and spatial propagation of shocks through novel credit elasticity and banking network channels, leading to the asymmetric regional transmission of national monetary policy. 
+
+   [Working paper (February 2026)](./content/Pike JMP - Banks as Firms - February 2026.pdf)  
+
+2. ### Banks, Sentiments, and Business Cycles
 
    Abstract:  This paper measures the ``animal spirits" of U.S. banks and asks whether they are an important determinant of credit conditions and source of business cycle fluctuations. I first construct a novel semi-structural measure of bank-level sentiment, revealing heterogeneous animal spirits across banks and common dynamics marked by surges in pessimism during crises and excessive optimism during periods of elevated asset prices. I then jointly estimate the contribution of shocks to bank and household sentiment, aggregate demand and supply, financial risk, and monetary policy to fluctuations in macroeconomic conditions using a structural BVAR framework. Bank sentiment shocks explain 38\% of the business cycle variation in credit conditions, 10\% in output, 22\% in prices, and 26\% in the policy rate.   
    
@@ -15,13 +23,13 @@ output: html_document
 
 ## Works in progress
 
-1. ### Getting in all the Cracks: Monetary Policy, Financial Vulnerabilities, and Macro Risk
+1. ### Monetary Policy, Financial Vulnerabilities, and Macro Risks  
 
    Coauthored with [Andrea Ajello](https://sites.google.com/site/ajelloandrea/)
 
+2. ### Financial Conditions and the Spatial Distribution of Entrepreneurship
 
-2. ### Banks as Firms: The Macroeconomics of Financial Firm Dynamics     
+   Coauthored with [Emin Dinlersoz](https://sites.google.com/site/emindinlersoz/), [Timothy Dunne](https://economics.nd.edu/people/timothy-dunne/), [John Halitwanger](http://econweb.umd.edu/~haltiwan/), and [Veronika Penciakova](https://vpenciak.weebly.com/research.html)
 
-
-3. ### Uncertainty Shocks and Market Concentration     
+3. ### Uncertainty Shocks, Market Concentration, and the Entrepreneurial Funding Channel   
 
