@@ -1,0 +1,49 @@
+name: "Tyler J. Pike"
+output_dir: "."
+
+navbar:
+  title: "Tyler J. Pike"
+  type: inverse
+  right:
+    - text: "CV"
+      href: ./content/Tyler_Pike_CV.pdf
+    - text: "Research"
+      menu: 
+      - text: "Current Projects"
+        href: ./current_projects.html
+      - text: "Publications"
+        href: ./publications.html
+      - text: ---
+      - text: "Google Scholar"
+        href: https://scholar.google.com/citations?user=S21ZxVwAAAAJ&hl=en
+      - text: "SSRN"
+        href: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3097491
+    - text: "Code"
+      menu: 
+      - text: "Packages"
+        href: ./packages.html
+      - text: "Research"
+        href: ./research_code.html
+      - text: ---
+      - text: "GitHub"
+        href: http://github.com/tylerJPike/
+    - text: "Contact"
+      menu:
+      - text: "Email"
+        href: mailto:tjpike7@gmail.com
+      - text: "LinkedIn"
+        href: https://www.linkedin.com/in/tyler-j-pike/)
+
+left:
+  - text: "Home"
+    href: index.html
+    
+output:
+  html_document:
+    theme: flatly
+  
+template:
+  params:
+    ganalytics: G-GWC6J2BGBM
+    
+# swtich to fltaly for white background
